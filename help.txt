@@ -1,0 +1,29 @@
+https://expressjs.com/en/starter/examples.html
+
+npx express-generator (skeleton)
+npm i
+set DEBUG=myapp:* & npm start
+
+
+fare commento su index.js
+//GET posts listing
+
+
+scrivere in chat il prompt: 
+
+come stampo in questa vista .jade l'array posts 
+che mi arriva in pagina tramite la route di express? 
+block content   h1= title   p Welcome to #{title}   ul   li
+
+
+
+PROMPT typescript e vue3
+
+ho istanziato il mio progetto express, ora voglio installare typescript e al posto di usare .jade per il FE voglio installare vue3. puoi spiegarmi step by step come fare?
+
+
+COMANDO COMPILAZIONE da TS a JS: 
+   tsc --outDir dist
+
+
+mi crei una regex in php per estrapolarmi l'email da questa stringa? " il mio indirizzo email è info-mailditest@mail.com o almeno credocom"
